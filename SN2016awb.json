@@ -1,0 +1,12 @@
+{
+	"SN2016awb":{
+		"name":"SN2016awb",
+		"errors":[
+			{
+				"kind":"name",
+				"value":"Latest Supernovae",
+				"extra":"redshift"
+			}
+		]
+	}
+}

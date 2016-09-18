@@ -1,0 +1,23 @@
+{
+	"SN2005em":{
+		"name":"SN2005em",
+		"sources":[
+			{
+				"name":"IAUC 8611",
+				"url":"http://www.cbat.eps.harvard.edu/iauc/08600/08611.html"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"IIb"
+			}
+		],
+		"errors":[
+			{
+				"value":"Latest Supernovae",
+				"kind":"name",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}

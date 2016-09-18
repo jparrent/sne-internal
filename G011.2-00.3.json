@@ -10,8 +10,8 @@
     "maxdate":[
       {
         "value":"100",
-        "error":"500",
-        "unit":"yr"
+        "e_value":"500",
+        "u_value":"yr"
       }
     ]
   }

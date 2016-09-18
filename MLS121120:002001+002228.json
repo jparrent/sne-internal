@@ -1,0 +1,12 @@
+{
+	"MLS121120:002001+002228":{
+		"name":"MLS121120:002001+002228",
+		"errors":[
+			{
+				"kind":"name",
+				"value":"Latest Supernovae",
+				"extra":"dec"
+			}
+		]
+	}
+}

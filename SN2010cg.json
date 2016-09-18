@@ -1,0 +1,12 @@
+{
+	"SN2010cg":{
+		"name":"SN2010cg",
+		"errors":[
+			{
+				"kind":"name",
+				"value":"Latest Supernovae",
+				"extra":"dec"
+			}
+		]
+	}
+}

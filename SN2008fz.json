@@ -1,0 +1,21 @@
+{
+	"SN2008fz":{
+		"name":"SN2008fz",
+		"sources":[
+			{
+				"bibcode":"2010ApJ...718L.127D"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"SLSN-II",
+				"kind":"photometric"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2008fz"
+			}
+		]
+	}
+}

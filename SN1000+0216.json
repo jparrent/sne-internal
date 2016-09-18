@@ -1,8 +1,9 @@
 {
 	"SN1000+0216":{
 		"name":"SN1000+0216",
-		"aliases":[
-			"SN1000+0216"
+		"alias":[
+			{"value":"SN1000+0216"},
+			{"value":"SN J1000+0216"}
 		],
 		"sources":[
 			{
@@ -27,7 +28,7 @@
 		"redshift":[
 			{
 				"value":"3.8993",
-				"error":"0.0074",
+				"e_value":"0.0074",
 				"source":"1"
 			}
 		]

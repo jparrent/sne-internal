@@ -1,0 +1,12 @@
+{
+	"SN2011hv":{
+		"name":"SN2011hv",
+		"errors":[
+			{
+				"kind":"name",
+				"value":"Asiago Supernova Catalogue",
+				"extra":"dec"
+			}
+		]
+	}
+}

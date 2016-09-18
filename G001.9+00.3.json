@@ -15,8 +15,8 @@
     "maxdate":[
     	{
     		"value":"1899",
-    		"error":"9",
-    		"unit":"yr"
+    		"e_value":"9",
+    		"u_value":"yr"
     	}
     ]
   }
